@@ -1,0 +1,6 @@
+{
+	"baselink": "https://[INERT SCHOOL TALOS PAGE HERE]/attendance/attendance/[INSERT YOUR ID HERE]/",
+	"startdate": "2020/09/01",
+	"enddate": "2020/09/31",
+	"cookies": "csrftoken=[COPY CSRFTOKEN COOKIE HERE]; sessionid=[COPY SESSIONID COOKIE HERE]"
+}
